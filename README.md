@@ -11,9 +11,9 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [2º] período de [Ciência da Computação] na [Universidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados / Suporte em T.i .
+Atualmente cursando o [2º] período de [Ciência da Computação] na [Universidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Frontend / Análise de Dados / Suporte em T.i .
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** [Python,Bootstrap,Angular,JS].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
