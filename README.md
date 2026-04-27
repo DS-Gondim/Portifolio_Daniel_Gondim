@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [2º] período de [Ciência da Computação] na [Universidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Desenvolvimento Backend / Análise de Dados / Suporte em T.i ].
+Atualmente cursando o [2º] período de [Ciência da Computação] na [Universidade de São Paulo (UNICID)]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados / Suporte em T.i .
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
