@@ -1,5 +1,5 @@
 # Daniel Soares Gondim
-> Estudante de [Ciência da Computação]
+> Atualmente trabalho na area de t.i Estudante de [Ciência da Computação]
  
 ---
  
