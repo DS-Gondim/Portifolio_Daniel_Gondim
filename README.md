@@ -1,4 +1,4 @@
-# [Daniel Soares Gondim]
+# Daniel Soares Gondim
 > Estudante de [Ciência da Computação]
  
 ---
