@@ -1,5 +1,5 @@
 # Daniel Soares Gondim
-> Atualmente trabalho na area de t.i Estudante de [Ciência da Computação]
+> Atualmente trabalho na area de t.i como especialista em Field Service na empresa Movida Aluguel de carros.Tenho como objetivo seguir na parte de desenvolvimento e programação FrontEnd, Cursei a faculdade de Analise e desenvolvimento de sistemas na UMC em 2018 , e atualmente sou Estudante de Ciência da Computação.
  
 ---
  
@@ -47,6 +47,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Universid
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema De Vendas** | um projeto de sistema de vendas para lojas | [Ver Projeto](Sistema-vendas) |
+| **Projeto Geração modelo logico** | Revisar o modelo lógico (tabelas, colunas, chaves primárias e estrangeiras, tipos de dados) do projeto com base EXCLUSIVAMENTE nas correções e pontos de melhoria indicados| [Ver Projeto](Projeto-Geração-Modelo-Logico) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
