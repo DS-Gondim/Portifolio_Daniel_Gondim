@@ -53,7 +53,7 @@ Atualmente cursando o [2º] período de [Ciência da Computação] na [Universid
 | :--- | :--- | :---: |
 | **Projeto Classificação Visual** | Tem objetivo prever e analisar padrões em imagens , ajudando na identificação de objetos presentes . | [Ver Projeto](Projeto-Classificação-Visual) |
 | **Batalha de Modelos & Engenharia de Prompt** |Avaliar a precisão técnica e a conformidade de diferentes LLMs (Large Language Models) em relação a um conjunto estrito de instruções.. | [Ver Projeto](Projeto-Modelos&Engenharia) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeto Starcode** | Responsavel por gerar Qr codes. | [Ver Projeto](Projeto-Starcode) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
