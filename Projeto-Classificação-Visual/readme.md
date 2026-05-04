@@ -1,4 +1,4 @@
-# 🎬 Sistema de Recomendação de Filmes
+# 🎬 Sistema de Classificação Visual
  
 ## 📝 Descrição do Projeto
 Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
@@ -27,8 +27,6 @@ O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a efi
 2. Instale as dependências: `pip install -r requirements.txt`.
 3. Execute o comando: `python main.py`.
  
-![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-*Figura 3: Representação visual do pipeline de dados.*
  
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+[Voltar ao início](https://github.com/DS-Gondim/portfolio-daniel-soares-gondim)
