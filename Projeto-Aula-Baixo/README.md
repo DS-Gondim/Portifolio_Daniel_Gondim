@@ -1,4 +1,4 @@
-# 🎬 Projeto Aulas De Contrabaixo
+#  🎸  Projeto Aulas De Contrabaixo
  
 ## 📝 Descrição do Projeto
 Este projeto consiste em um aplicativo para agendar aulas online e presencialmente de contrabaixo, podendo escolher os estilos de musicas desejados, as aulas online são realizadas pelo jitsi meet .
