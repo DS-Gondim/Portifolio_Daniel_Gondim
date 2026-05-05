@@ -4,6 +4,8 @@
 Este projeto consiste em um aplicativo para agendar aulas online e presencialmente de contrabaixo, podendo escolher os estilos de musicas desejados, as aulas online são realizadas pelo jitsi meet .
  
 Desenvolvido como parte da disciplina de **Inteligência Artificial**, o sistema ajuda e facilita o processo de agendamento das aulas , tendo uma boa didatica e uma faclidade de usar o aplicativo.
+
+https://manus.im/app/4xhGfYfiqcU0r3Rcve05RD?adgroupid=197292501788&adid=&cid=7296735399&creative=784509224576&device=c&devicemodel=&gad_campaignid=23266830180&gad_source=1&gbraid=0AAAABB8nEWNDz9cEWF85TuFNU7EvJsv40&gbraid=0AAAABB8nEWNDz9cEWF85TuFNU7EvJsv40&gclid=Cj0KCQjwh-HPBhCIARIsAC0p3ccjWL8L5d5Eyb804wk6cfccAA1ILNzOhCmVfQBY1nIrYU6bzaNCViwaAppoEALw_wcB&matchtype=e&network=g&placement=&utm_campaign=23266830180&utm_content=197292501788&utm_medium=&utm_source=google&utm_term=manus&wbraid=CkEKCQjw5NvPBhDmARIwAPpXf3o7kZHuG1O8uw5EcBMxP0mM8Zb_UPC36oglukJKrwlKG6YmvlN5aJ2JUF4MGgJ8fg 
  
 ## 🚀 Tecnologias Utilizadas
 * **Linguagens:** TypeScript, JavaScript, CSS, SQL (opcional)
